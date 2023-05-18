@@ -1,8 +1,10 @@
-import logo from './logo.svg';
+import OuterBox from './containers/OuterBox';
 import './App.css';
 
 function App() {
-  return 
-} hey
+  return (
+    <OuterBox/>
+  )
+} 
 
 export default App;
